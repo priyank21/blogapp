@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BlogApp
 
 ## Description
@@ -75,3 +76,6 @@ The BlogApp project follows the Model-View-Controller (MVC) architecture pattern
     For Whole application
     -- php artisan test
 
+=======
+# blogapp
+>>>>>>> origin/main
